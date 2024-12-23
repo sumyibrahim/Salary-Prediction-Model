@@ -1,7 +1,7 @@
 # **Salary Prediction Model**
 
 ## **Project Overview**
-This project builds a machine learning model to predict salaries (`salary_in_usd`) based on key factors such as job title, experience level, remote ratio, company size, and company location. The goal is to help organizations and professionals estimate salary ranges based on these features. 
+This project builds a machine learning model to predict salaries of professionals in the field pf Data Science based on key factors such as job title, experience level, remote ratio, company size, and company location. The goal is to help organizations and professionals estimate salary ranges based on these features. 
 
 Multiple machine learning algorithms were implemented, evaluated, and compared to identify the most effective model for salary prediction.
 
